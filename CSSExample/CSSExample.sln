@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSExample.Android", "CSSExample.Android\CSSExample.Android.csproj", "{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSExample", "CSSExample\CSSExample.csproj", "{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEED632-A1CB-494D-BAA9-D8C82ED38E4A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DDBB40-6A59-4259-BAAB-6E60BCA9EC44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C5BD9F-C779-4D27-9AA7-B4B1AF24157C}
+	EndGlobalSection
+EndGlobal
